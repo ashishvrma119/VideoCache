@@ -3,7 +3,8 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.summary      = "A caching library for AVVideoPlayer."
   s.description  = "AVVideoCache is a library that provides caching functionality for AVVideoPlayer. It allows developers to cache video files locally for efficient playback and reduces network usage."
-  s.license      = { :type => 'MIT', :text => 'Copyright (c) 2022 GluedIn <“developer@gluedin.io”>
+  s.homepage     = "https://github.com/ashishvrma119/VideoCache"
+  s.license      = { :type => 'MIT', :text => 'Copyright (c) 2024
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
