@@ -26,7 +26,8 @@ Pod::Spec.new do |s|
   s.author       = { 'VideoCache' => '“ashishvrma119@gmail.com”' }
   s.platform     = :ios, "11.0"
   s.ios.deployment_target = "11.0"
-
+  s.swift_version = "5.1"
+  
   s.source       = { :git => "https://github.com/ashishvrma119/VideoCache.git", :tag => s.version.to_s }
   s.source_files  = "VideoCache/**/*.{h,m,swift}"
   
