@@ -1,10 +1,3 @@
-//
-//  NSFileHandle+Ext.m
-//  VideoCache
-//
-//  Created by SoalHunag on 2019/9/10.
-//  Copyright © 2019 soso. All rights reserved.
-//
 
 #import "NSFileHandle+Ext.h"
 

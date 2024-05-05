@@ -1,10 +1,3 @@
-//
-//  AVAssetResourceLoadingContentInformationRequest+Ext.swift
-//  VideoCache
-//
-//  Created by SoalHunag on 2019/2/26.
-//  Copyright © 2019 soso. All rights reserved.
-//
 
 import AVFoundation
 

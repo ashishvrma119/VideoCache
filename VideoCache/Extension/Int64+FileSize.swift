@@ -1,10 +1,3 @@
-//
-//  Int64+FileSize.swift
-//  VideoCache
-//
-//  Created by SoalHunag on 2019/3/14.
-//  Copyright © 2019 soso. All rights reserved.
-//
 
 import Foundation
 
